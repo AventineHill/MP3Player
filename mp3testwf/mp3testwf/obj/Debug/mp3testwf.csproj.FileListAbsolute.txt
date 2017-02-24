@@ -1,0 +1,13 @@
+c:\users\connor\documents\visual studio 2015\Projects\mp3testwf\mp3testwf\bin\Debug\mp3testwf.exe.config
+c:\users\connor\documents\visual studio 2015\Projects\mp3testwf\mp3testwf\bin\Debug\mp3testwf.exe
+c:\users\connor\documents\visual studio 2015\Projects\mp3testwf\mp3testwf\bin\Debug\mp3testwf.pdb
+c:\users\connor\documents\visual studio 2015\Projects\mp3testwf\mp3testwf\obj\Debug\mp3testwf.csprojResolveAssemblyReference.cache
+c:\users\connor\documents\visual studio 2015\Projects\mp3testwf\mp3testwf\obj\Debug\mp3testwf.Form1.resources
+c:\users\connor\documents\visual studio 2015\Projects\mp3testwf\mp3testwf\obj\Debug\mp3testwf.Properties.Resources.resources
+c:\users\connor\documents\visual studio 2015\Projects\mp3testwf\mp3testwf\obj\Debug\mp3testwf.csproj.GenerateResource.Cache
+c:\users\connor\documents\visual studio 2015\Projects\mp3testwf\mp3testwf\obj\Debug\mp3testwf.exe
+c:\users\connor\documents\visual studio 2015\Projects\mp3testwf\mp3testwf\obj\Debug\mp3testwf.pdb
+c:\users\connor\documents\visual studio 2015\Projects\mp3testwf\mp3testwf\bin\Debug\mp3testwf.exe.manifest
+c:\users\connor\documents\visual studio 2015\Projects\mp3testwf\mp3testwf\bin\Debug\mp3testwf.application
+c:\users\connor\documents\visual studio 2015\Projects\mp3testwf\mp3testwf\obj\Debug\mp3testwf.exe.manifest
+c:\users\connor\documents\visual studio 2015\Projects\mp3testwf\mp3testwf\obj\Debug\mp3testwf.application
